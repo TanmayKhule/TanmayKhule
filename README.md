@@ -22,7 +22,7 @@
 - 💼 I'm a Third Year CSE Student from Mumbai
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
 - 👯 I’m looking to collaborate on backend software engineering projects
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="468.75" height="300" />
 <div></div>
 	
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
