@@ -81,7 +81,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayKhule&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
   <br/>
   </p>
 </details>
@@ -90,7 +90,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TanmayKhule&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
