@@ -17,7 +17,7 @@
   </a>  
 
 
-	<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 👋 Hi, I’m Tanmay Khule
 - 💼 I'm a Third Year CSE Student from Mumbai
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
