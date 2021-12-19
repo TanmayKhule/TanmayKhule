@@ -19,6 +19,7 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+	
 - 👋 Hi, I’m Tanmay
 - 💼 I'm a Data Scientist at Dubai Holding
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
