@@ -18,8 +18,8 @@
 
 
 	
-- 👋 Hi, I’m Tanmay
-- 💼 I'm a Data Scientist at Dubai Holding
+- 👋 Hi, I’m Tanmay Khule
+- 💼 I'm a Third Year CSE Student from Mumbai
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
 - 👯 I’m looking to collaborate on backend software engineering projects
 
