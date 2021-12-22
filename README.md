@@ -105,8 +105,3 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
 </a> 
-
-----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/aastha12)
-
-Last Edited on: 19/10/2021
