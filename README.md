@@ -97,11 +97,11 @@
 ## Popular Projects
 <a href="https://github.com/TanmayKhule/Vaani">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayKhule&repo=Vaani&theme=onedark" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayKhule&repo=Vaani&theme=onedark" /> 
 </a>  
 
 
 <a href="https://github.com/TanmayKhule/PopcornTime">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <!--<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" /> -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" /> 
 </a> 
