@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/Researchers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Fellow < Researchers/Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" /> 
@@ -16,8 +16,8 @@
 
 - 👋 Hi, I’m Tanmay Khule
 - 💼 I'm a Third Year CSE Student from Mumbai
-- 💬 Talk to me about freelancing opportunities in data science and software engineering
-- 👯 I’m looking to collaborate on backend software engineering projects
+- 💬 Talk to me about intriguing ML research's 
+- 👯 I’m looking to collaborate 
 
 <div></div>
 	
