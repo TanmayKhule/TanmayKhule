@@ -9,8 +9,9 @@
    <a href="https://www.linkedin.com/in/tanmay-khule-3678001b6/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-[![Portfolio Website](https://github.com/TanmayKhule/TanmayKhule.github.io/blob/master/assets/img/title.PNG)](https://tanmaykhule.github.io/)
-
+  <a href="https://www.linkedin.com/in/tanmay-khule-3678001b6/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Tanmay%20Khule-orange?style=for-the-badge">
+  </a>
 
 
 - 👋 Hi, I’m Tanmay Khule
