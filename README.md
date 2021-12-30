@@ -16,8 +16,8 @@
 
 - 👋 Hi, I’m Tanmay Khule
 - 💼 I'm a Third Year CSE Student from Mumbai
-- 💬 Talk to me about intriguing ML research's 
-- 👯 I’m looking to collaborate 
+- 💬 Talk to me about intriguing ML research's or maybe just the weather
+- 👯 I’m looking to collaborate on Research Projects/
 
 <div></div>
 	
