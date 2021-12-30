@@ -10,7 +10,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   <a href="https://www.linkedin.com/in/tanmay-khule-3678001b6/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge">
+    <img alt="Portfolio" src="https://tanmaykhule.github.io/">
   </a>
 
 
