@@ -93,14 +93,14 @@
 
 <br/>
 
-## Popular Projects
+## Key Projects
 <a href="https://github.com/TanmayKhule/Vaani">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayKhule&repo=Vaani&theme=onedark" /> 
 </a>  
 
 
-<a href="https://github.com/TanmayKhule/PopcornTime">
+<a href="https://github.com/TanmayKhule/fake-news-classifier">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayKhule&repo=PopcornTime&theme=onedark" /> 
 </a> 
